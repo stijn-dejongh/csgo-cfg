@@ -8,8 +8,8 @@ One of the things I like most about CS:GO is the abilities given to users to cut
 
 * My configuration
 * Friend configs
-** Abe
-** Sam
+	* Abe
+	* Sam
 
 ## Usage
 
