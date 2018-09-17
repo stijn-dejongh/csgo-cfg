@@ -52,7 +52,7 @@ Paste the files into 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Stri
 Some aliases are not bound to keys and are intended to be used from the console.
 Here is a list of commands that you can use:
 
-* xhair_<name> : Change your crosshair to one of those I have preconfigured.
+* xhair_*NAMEGOESHERE* : Change your crosshair to one of those I have preconfigured.
 * swagyolo: trolly visual mode. Your crosshair and HUD wil change color when shooting.
 * ae: rerun the autoexec. Use this when changing binds (or other config) on the fly, so you don't have to restart CS:GO all the time.
 * damage_on/damage_off: Toggle displaying of damage on the top of the screen. These commands exist because the console will be full of debug info when activated.
