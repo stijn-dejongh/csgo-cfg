@@ -1,5 +1,8 @@
 # Doji's CSGO Configs
 
+## HUGE THANKS TO KiloSwiss for informing me of errors
+Check out https://steamcommunity.com/id/kiloswiss and his config.
+
 ## About
 
 One of the things I like most about CS:GO is the abilities given to users to cutomise their experience. I have a lot of fun finding good or silly binds and aliases that make the experience more enjoyable.
